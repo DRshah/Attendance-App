@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AttendanceApp</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_number">Phone Number</string>
+    <string name="lbl_roll">Roll Number</string>
+    <string name="lbl_user">Username</string>
+</resources>
