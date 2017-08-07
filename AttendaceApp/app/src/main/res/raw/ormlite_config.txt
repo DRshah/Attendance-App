@@ -1,0 +1,26 @@
+#
+# generated on 2016/04/08 01:31:15
+#
+# --table-start--
+dataClass=com.example.db.StudentDB
+tableName=StudentDB
+# --table-fields-start--
+# --field-start--
+fieldName=Rollnum
+id=true
+# --field-end--
+# --field-start--
+fieldName=name
+# --field-end--
+# --field-start--
+fieldName=Attendance
+# --field-end--
+# --field-start--
+fieldName=UpdatedOn
+# --field-end--
+# --field-start--
+fieldName=MobileNumnber
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\teacher_menu.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\menu\\teacher_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\teacher_menu.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\menu\\teacher_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

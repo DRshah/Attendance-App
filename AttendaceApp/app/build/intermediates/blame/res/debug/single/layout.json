@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher_login.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_teacher_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_login.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_less_attendence.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_less_attendence.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_student.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_add_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_less_attendence.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_less_attendence.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_attendance_old.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_check_attendance_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_attendance.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_check_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_edit_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher_.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_teacher_.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_student.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_edit_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_attendance_std.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_check_attendance_std.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_attendance_std.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_check_attendance_std.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher_.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_teacher_.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_attendance.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_select_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_teacher.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_add_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_attendance_old.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_check_attendance_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_attendance.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_check_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_student.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\list_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_login2.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_admin_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_teacher.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_add_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_login2.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_admin_login2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teacher_login.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_teacher_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_card.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\attendance_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_attendance.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_select_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_defauters.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\list_defauters.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_student.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\list_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_student.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_add_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_student.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_edit_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_activity.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_edit_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_login.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_defauters.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\list_defauters.xml"
+    },
+    {
+        "merged": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_card.xml",
+        "source": "C:\\Users\\Darsh_Shah\\Desktop\\db1\\app\\src\\main\\res\\layout\\attendance_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\db1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance.xml",
+        "source": "C:\\Users\\User\\Desktop\\db1\\app\\src\\main\\res\\layout\\activity_attendance.xml"
+    }
+]

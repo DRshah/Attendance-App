@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/m_check_classatt"
+        android:showAsAction="never"
+        android:title="Check class record"
+        android:onClick="onCheckRecord"/>
+    <item android:id="@+id/m_check_studatt"
+        android:showAsAction="never"
+        android:title="Check student record"
+        android:onClick="onStdRecord"/>
+    <item android:id="@+id/m_defaulter"
+        android:showAsAction="never"
+        android:title="view defaulter list"
+        android:onClick="onDefList"/>
+    <item android:id="@+id/m_logout"
+        android:showAsAction="always"
+        android:title="Logout"
+        android:onClick="onLogOut"/>
+
+</menu>
